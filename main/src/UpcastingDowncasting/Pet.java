@@ -1,5 +1,7 @@
 package UpcastingDowncasting;
 
-public abstract class Pet {
-	public abstract void eat();
+public class Pet {
+	public void eat() {
+		System.out.println("³Ô¶«Î÷");
+	}
 }
